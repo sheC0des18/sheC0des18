@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**sheC0des18/sheC0des18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hello, I'm Success Nweke!
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
@@ -24,32 +7,32 @@ Here are some ideas to get you started:
 
 🎓 **Computer Science Student** | 🌍 Based in Edinburgh, United Kingdom | 💡 Passionate about solving real-world problems through technology.
 
-I am a highly motivated and results-driven Computer Science student on track for a first-class degree at Edinburgh Napier University. With hands-on experience in software development, project management, and data analysis, I bring a unique blend of technical expertise and collaborative skills to every project.
-
 ---
 
 ## 🔥 Featured Projects
 
-### 1. **Mangrove Crab Fisheries Management App**  
-![React](https://img.shields.io/badge/React-%2341D4FE.svg?logo=react&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%234CAF50.svg?logo=jira&logoColor=white)
-- **Description**: A mobile and web application aimed at promoting sustainable mangrove crab fisheries in Brazil.  
-- **Role**: Project Manager  
-- [View Repository](https://github.com/your-username/mangrove-crab-management)  
+### 1. **REMAR Flutter App**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+- **Description**: A Flutter-based implementation of the REMAR_Citizen App, designed to enhance citizen engagement and streamline access to municipal services.  
+- **Role**: Contributed to the development of user interfaces and integration of backend services.  
+- [View Repository](https://github.com/sheC0des18/REMAR-Flutter-App)
 
-### 2. **CriticiseAI**  
-![React](https://img.shields.io/badge/React-%2341D4FE.svg?logo=react&logoColor=white)
-![Market Research](https://img.shields.io/badge/Market%20Research-%23FFA500.svg)
-- **Description**: A platform that enhances usability and functionality for AI-driven feedback systems.  
-- **Role**: Contributed to front-end components using React and conducted market research to identify key opportunities.  
-- [View Repository](https://github.com/your-username/criticiseai)
-
-### 3. **Portfolio Website**  
+### 2. **Web Technologies Project**  
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-- **Description**: A personal portfolio showcasing my technical and professional journey.  
-- [View Repository](https://github.com/your-username/portfolio-website)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+- **Description**: A web application developed as part of the Advanced Web Technologies course, featuring user authentication, group management, and dynamic content rendering.  
+- **Role**: Led the front-end development using HTML and CSS; implemented server-side logic with Python.  
+- [View Repository](https://github.com/sheC0des18/Web-Technologies)
+
+### 3. **Object-Oriented Software Engineering Project**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white)
+- **Description**: A software engineering project focused on object-oriented design principles, utilizing Java and Docker to create a scalable population information reporting system.  
+- **Role**: Collaborated in system design and implementation, ensuring adherence to object-oriented methodologies.  
+- [View Repository](https://github.com/sheC0des18/Object-Oriented-Software-Engineering)
 
 ---
 
@@ -86,7 +69,7 @@ When I’m not coding or managing projects, you’ll find me exploring my passio
 ## 📫 Let’s Connect!
 - **Email**: [success.cruze@gmail.com](mailto:success.cruze@gmail.com)  
 - **LinkedIn**: [Success Nweke](https://www.linkedin.com/in/success-nweke-0a1443252)  
-- **GitHub**: [Success Nweke](https://github.com/your-username)  
+- **GitHub**: [Success Nweke](https://github.com/sheC0des18)  
 
 ---
 
